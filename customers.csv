@@ -1,0 +1,501 @@
+Age,Income,SpendingScore,Gender,PurchaseFrequency,Feedback
+33,204,60,Male,7,"Okay experience, nothing special."
+32,244,64,Male,19,Decent product for the price.
+61,346,65,Female,8,"It's okay, not great but not bad either."
+59,873,91,Male,12,"Satisfied with the purchase, will buy again."
+37,440,4,Female,25,"Not worth the price, would not recommend."
+37,488,64,Female,10,Expected more based on the description.
+53,369,60,Other,9,"Average quality, but delivery was quick."
+55,977,56,Male,21,Decent product for the price.
+61,675,23,Other,1,Poor quality and bad experience overall.
+54,868,67,Female,1,"It's okay, not great but not bad either."
+22,418,24,Male,17,"Too expensive for the value, not satisfied."
+49,486,94,Female,7,"High quality for the price, very impressed."
+22,929,38,Other,27,Poor quality and bad experience overall.
+56,313,11,Other,22,Poor quality and bad experience overall.
+50,978,31,Other,18,Slow customer service and late shipping.
+63,875,37,Other,26,Slow customer service and late shipping.
+20,920,25,Male,7,"Not worth the price, would not recommend."
+33,236,34,Male,24,"Too expensive for the value, not satisfied."
+61,633,84,Male,2,Great customer service and fast shipping.
+34,335,12,Female,26,Slow customer service and late shipping.
+60,135,14,Female,4,Slow customer service and late shipping.
+27,650,48,Female,22,"Okay experience, nothing special."
+48,128,13,Female,14,Poor quality and bad experience overall.
+42,715,22,Male,10,"Too expensive for the value, not satisfied."
+38,276,34,Other,16,Poor quality and bad experience overall.
+51,861,27,Male,14,"Delivery took too long, not happy."
+39,701,17,Male,18,Poor quality and bad experience overall.
+22,811,70,Male,14,"Average quality, but delivery was quick."
+68,350,88,Female,7,Amazing offers! Bought 3 items last week.
+42,209,57,Male,1,Expected more based on the description.
+53,872,97,Other,19,Fantastic deals and super quick delivery!
+28,863,79,Male,11,"High quality for the price, very impressed."
+28,470,36,Female,10,Poor quality and bad experience overall.
+68,641,94,Other,9,Fantastic deals and super quick delivery!
+40,339,61,Female,19,Decent product for the price.
+46,469,58,Male,22,"It's okay, not great but not bad either."
+20,987,34,Male,20,"Not worth the price, would not recommend."
+62,575,86,Female,4,Fantastic deals and super quick delivery!
+60,729,30,Other,14,"Product arrived damaged, very disappointed."
+54,390,91,Other,17,"High quality for the price, very impressed."
+62,653,40,Male,5,"Average quality, but delivery was quick."
+51,175,68,Male,2,Expected more based on the description.
+45,487,82,Male,27,"Love the product, great quality and fast delivery!"
+40,475,53,Other,3,"Service was fine, but packaging could be better."
+44,477,50,Female,4,"Average quality, but delivery was quick."
+39,534,54,Male,11,"Average quality, but delivery was quick."
+43,226,26,Male,4,"Not worth the price, would not recommend."
+35,176,100,Other,10,Fantastic deals and super quick delivery!
+36,148,65,Male,14,"Okay experience, nothing special."
+44,894,34,Female,15,"Too expensive for the value, not satisfied."
+32,600,84,Female,14,Fantastic deals and super quick delivery!
+32,456,74,Male,8,"Love the product, great quality and fast delivery!"
+59,287,41,Other,22,"Service was fine, but packaging could be better."
+32,309,8,Other,28,"Too expensive for the value, not satisfied."
+66,741,25,Female,7,"Delivery took too long, not happy."
+21,500,10,Male,10,"Too expensive for the value, not satisfied."
+68,743,93,Male,2,Great customer service and fast shipping.
+40,215,72,Other,29,"High quality for the price, very impressed."
+59,181,51,Male,18,"Okay experience, nothing special."
+22,300,80,Male,20,"High quality for the price, very impressed."
+54,454,75,Male,19,Great customer service and fast shipping.
+66,207,74,Female,21,"High quality for the price, very impressed."
+46,546,26,Other,1,"Delivery took too long, not happy."
+41,756,65,Male,20,"Average quality, but delivery was quick."
+65,951,10,Male,8,Slow customer service and late shipping.
+35,107,76,Other,15,"High quality for the price, very impressed."
+30,780,60,Female,3,"Average quality, but delivery was quick."
+29,481,71,Male,25,Great customer service and fast shipping.
+27,982,55,Other,8,"Service was fine, but packaging could be better."
+35,277,12,Male,4,"Too expensive for the value, not satisfied."
+30,295,71,Male,10,Great customer service and fast shipping.
+23,853,19,Male,27,"Delivery took too long, not happy."
+53,602,59,Female,13,"Average quality, but delivery was quick."
+47,868,1,Female,3,Poor quality and bad experience overall.
+31,795,42,Female,16,"It's okay, not great but not bad either."
+23,556,44,Male,12,"Average quality, but delivery was quick."
+22,527,27,Other,11,Slow customer service and late shipping.
+22,815,58,Male,18,"Okay experience, nothing special."
+62,750,80,Male,26,"High quality for the price, very impressed."
+24,454,82,Female,23,Great customer service and fast shipping.
+56,289,2,Male,5,Slow customer service and late shipping.
+40,852,19,Other,10,"Product arrived damaged, very disappointed."
+61,520,85,Male,14,Great customer service and fast shipping.
+49,252,51,Female,25,"Okay experience, nothing special."
+39,967,66,Other,22,"Average quality, but delivery was quick."
+46,684,32,Male,26,Poor quality and bad experience overall.
+65,599,20,Other,13,"Not worth the price, would not recommend."
+38,708,19,Other,11,"Not worth the price, would not recommend."
+21,501,40,Male,11,Decent product for the price.
+68,963,57,Female,14,"Service was fine, but packaging could be better."
+25,413,38,Male,4,"Not worth the price, would not recommend."
+45,337,36,Female,3,"Too expensive for the value, not satisfied."
+33,497,68,Other,14,"Service was fine, but packaging could be better."
+21,486,5,Male,6,"Not worth the price, would not recommend."
+54,366,63,Other,19,Decent product for the price.
+52,999,90,Other,1,Fantastic deals and super quick delivery!
+35,721,36,Male,14,"Delivery took too long, not happy."
+68,359,28,Other,2,"Too expensive for the value, not satisfied."
+53,473,76,Male,17,Great customer service and fast shipping.
+23,161,30,Other,1,"Not worth the price, would not recommend."
+66,693,70,Other,12,"Average quality, but delivery was quick."
+25,877,62,Male,15,Expected more based on the description.
+66,606,18,Male,30,"Not worth the price, would not recommend."
+69,876,58,Female,24,Expected more based on the description.
+41,662,92,Other,28,Great customer service and fast shipping.
+43,268,6,Male,22,"Delivery took too long, not happy."
+65,193,58,Female,12,"Average quality, but delivery was quick."
+65,501,60,Female,11,"Okay experience, nothing special."
+63,828,43,Male,10,"Service was fine, but packaging could be better."
+33,709,25,Other,4,Poor quality and bad experience overall.
+54,406,80,Female,24,"High quality for the price, very impressed."
+67,705,14,Female,12,"Product arrived damaged, very disappointed."
+43,449,51,Other,25,"Okay experience, nothing special."
+45,206,80,Male,15,Great customer service and fast shipping.
+47,347,79,Male,21,Great customer service and fast shipping.
+48,681,7,Other,21,Slow customer service and late shipping.
+33,668,51,Other,18,"Okay experience, nothing special."
+70,453,61,Male,9,Expected more based on the description.
+52,765,86,Male,7,"Satisfied with the purchase, will buy again."
+33,271,40,Female,15,"Service was fine, but packaging could be better."
+24,884,18,Other,15,"Delivery took too long, not happy."
+37,385,47,Other,4,"Okay experience, nothing special."
+46,447,96,Male,1,Great customer service and fast shipping.
+46,620,84,Female,26,Amazing offers! Bought 3 items last week.
+51,858,7,Female,25,"Delivery took too long, not happy."
+29,260,52,Other,1,"Okay experience, nothing special."
+51,705,94,Male,5,Amazing offers! Bought 3 items last week.
+60,930,99,Female,12,Fantastic deals and super quick delivery!
+46,712,70,Male,9,"Okay experience, nothing special."
+61,986,57,Female,16,"Service was fine, but packaging could be better."
+21,966,27,Female,3,"Product arrived damaged, very disappointed."
+61,625,30,Other,10,"Product arrived damaged, very disappointed."
+70,658,86,Female,6,Great customer service and fast shipping.
+51,316,58,Other,15,"Okay experience, nothing special."
+69,791,54,Other,6,Expected more based on the description.
+42,906,76,Female,11,Amazing offers! Bought 3 items last week.
+26,939,37,Male,30,Slow customer service and late shipping.
+57,764,57,Female,9,Expected more based on the description.
+58,542,84,Female,13,"Love the product, great quality and fast delivery!"
+65,673,79,Other,2,Amazing offers! Bought 3 items last week.
+59,321,84,Female,18,"High quality for the price, very impressed."
+62,229,3,Female,28,"Product arrived damaged, very disappointed."
+64,722,52,Female,25,"It's okay, not great but not bad either."
+18,468,95,Other,2,"Love the product, great quality and fast delivery!"
+18,635,23,Female,8,"Not worth the price, would not recommend."
+40,595,17,Female,25,"Delivery took too long, not happy."
+26,724,25,Other,10,Slow customer service and late shipping.
+66,534,44,Other,21,Decent product for the price.
+20,744,85,Other,16,"High quality for the price, very impressed."
+54,156,45,Female,23,"It's okay, not great but not bad either."
+31,574,96,Female,17,Fantastic deals and super quick delivery!
+41,918,100,Female,29,"Satisfied with the purchase, will buy again."
+46,375,30,Other,14,Poor quality and bad experience overall.
+52,158,35,Other,18,"Too expensive for the value, not satisfied."
+68,617,89,Male,19,Fantastic deals and super quick delivery!
+50,192,49,Male,13,"It's okay, not great but not bad either."
+22,899,10,Other,1,"Delivery took too long, not happy."
+46,115,47,Male,29,"Okay experience, nothing special."
+36,451,35,Female,17,"Delivery took too long, not happy."
+21,867,6,Other,6,Poor quality and bad experience overall.
+61,518,66,Female,12,"Service was fine, but packaging could be better."
+47,667,15,Other,16,Poor quality and bad experience overall.
+60,678,85,Female,25,Fantastic deals and super quick delivery!
+23,313,86,Female,27,"High quality for the price, very impressed."
+41,596,71,Male,15,Amazing offers! Bought 3 items last week.
+64,490,26,Female,13,Slow customer service and late shipping.
+52,578,29,Male,6,Poor quality and bad experience overall.
+59,324,84,Other,30,"High quality for the price, very impressed."
+51,321,1,Other,1,"Product arrived damaged, very disappointed."
+57,663,36,Male,13,"Delivery took too long, not happy."
+30,944,95,Other,19,Great customer service and fast shipping.
+38,991,63,Female,21,"Service was fine, but packaging could be better."
+60,488,6,Female,2,Slow customer service and late shipping.
+36,130,31,Male,2,Slow customer service and late shipping.
+22,230,5,Male,29,"Too expensive for the value, not satisfied."
+46,525,34,Female,7,"Delivery took too long, not happy."
+46,470,1,Female,23,"Too expensive for the value, not satisfied."
+18,399,81,Male,25,"High quality for the price, very impressed."
+40,829,80,Male,23,Fantastic deals and super quick delivery!
+70,960,100,Other,13,Amazing offers! Bought 3 items last week.
+47,240,76,Male,9,Great customer service and fast shipping.
+27,226,86,Other,30,"High quality for the price, very impressed."
+31,359,80,Female,12,Fantastic deals and super quick delivery!
+58,130,23,Male,19,Slow customer service and late shipping.
+58,592,52,Other,28,"It's okay, not great but not bad either."
+35,951,76,Male,29,"High quality for the price, very impressed."
+50,971,23,Male,21,"Product arrived damaged, very disappointed."
+29,385,79,Other,12,"Love the product, great quality and fast delivery!"
+42,460,74,Female,14,"Satisfied with the purchase, will buy again."
+61,273,82,Male,14,Amazing offers! Bought 3 items last week.
+27,898,75,Other,30,Fantastic deals and super quick delivery!
+63,752,58,Male,30,"Average quality, but delivery was quick."
+46,569,30,Other,6,Slow customer service and late shipping.
+19,665,79,Female,26,Amazing offers! Bought 3 items last week.
+46,131,46,Male,3,Decent product for the price.
+57,478,95,Female,21,Amazing offers! Bought 3 items last week.
+43,139,26,Female,1,"Delivery took too long, not happy."
+43,356,24,Other,22,Slow customer service and late shipping.
+49,543,4,Female,15,"Not worth the price, would not recommend."
+41,950,15,Other,14,"Not worth the price, would not recommend."
+63,127,32,Female,3,"Too expensive for the value, not satisfied."
+50,255,8,Other,3,Poor quality and bad experience overall.
+70,190,19,Male,24,Slow customer service and late shipping.
+56,939,34,Female,2,"Too expensive for the value, not satisfied."
+65,503,47,Other,10,Expected more based on the description.
+23,246,86,Male,12,"Satisfied with the purchase, will buy again."
+68,966,91,Other,13,"Love the product, great quality and fast delivery!"
+19,943,90,Male,20,"High quality for the price, very impressed."
+65,331,77,Male,17,Fantastic deals and super quick delivery!
+47,377,35,Other,30,"Too expensive for the value, not satisfied."
+21,916,63,Female,17,Decent product for the price.
+70,981,30,Female,13,"Product arrived damaged, very disappointed."
+22,226,91,Male,23,Great customer service and fast shipping.
+63,244,84,Female,18,"Love the product, great quality and fast delivery!"
+21,979,36,Other,4,"Product arrived damaged, very disappointed."
+53,809,77,Other,20,"Love the product, great quality and fast delivery!"
+43,561,60,Other,14,"Average quality, but delivery was quick."
+22,372,77,Female,25,Amazing offers! Bought 3 items last week.
+47,548,42,Other,25,"It's okay, not great but not bad either."
+62,351,54,Other,21,Decent product for the price.
+22,337,52,Other,25,"Service was fine, but packaging could be better."
+26,574,30,Male,1,"Product arrived damaged, very disappointed."
+50,244,2,Other,10,"Not worth the price, would not recommend."
+66,640,52,Other,27,"Average quality, but delivery was quick."
+56,402,16,Male,24,"Too expensive for the value, not satisfied."
+53,132,42,Male,19,"It's okay, not great but not bad either."
+56,623,55,Other,10,Decent product for the price.
+65,604,26,Other,12,Slow customer service and late shipping.
+26,614,73,Male,7,Amazing offers! Bought 3 items last week.
+45,365,76,Male,8,Fantastic deals and super quick delivery!
+66,205,24,Male,11,Slow customer service and late shipping.
+40,407,49,Male,3,"Service was fine, but packaging could be better."
+25,920,73,Male,26,"Love the product, great quality and fast delivery!"
+64,811,91,Female,5,"High quality for the price, very impressed."
+63,118,35,Male,15,"Too expensive for the value, not satisfied."
+65,765,89,Male,15,"High quality for the price, very impressed."
+31,296,24,Male,20,"Too expensive for the value, not satisfied."
+32,350,37,Other,5,Slow customer service and late shipping.
+30,142,51,Female,19,Expected more based on the description.
+58,571,22,Female,17,Slow customer service and late shipping.
+68,898,32,Female,19,Poor quality and bad experience overall.
+44,826,72,Other,24,"Love the product, great quality and fast delivery!"
+41,398,48,Female,17,Decent product for the price.
+49,648,21,Female,3,"Delivery took too long, not happy."
+31,555,34,Female,23,"Delivery took too long, not happy."
+51,778,42,Male,20,"Average quality, but delivery was quick."
+34,129,25,Female,25,"Too expensive for the value, not satisfied."
+49,169,85,Male,3,Fantastic deals and super quick delivery!
+42,664,100,Male,25,Great customer service and fast shipping.
+26,334,61,Female,30,"Service was fine, but packaging could be better."
+29,439,1,Other,18,"Delivery took too long, not happy."
+63,570,74,Other,22,Great customer service and fast shipping.
+38,586,88,Other,4,Fantastic deals and super quick delivery!
+67,487,35,Other,20,"Not worth the price, would not recommend."
+62,748,89,Female,30,Great customer service and fast shipping.
+53,130,49,Male,15,"Service was fine, but packaging could be better."
+59,193,34,Female,20,"Product arrived damaged, very disappointed."
+39,612,38,Female,6,"Not worth the price, would not recommend."
+61,919,31,Female,15,"Too expensive for the value, not satisfied."
+31,838,96,Other,2,Great customer service and fast shipping.
+40,842,86,Male,26,"Love the product, great quality and fast delivery!"
+65,333,16,Male,4,"Not worth the price, would not recommend."
+68,950,16,Other,14,"Product arrived damaged, very disappointed."
+59,828,18,Male,12,Slow customer service and late shipping.
+29,235,55,Other,28,"Okay experience, nothing special."
+61,940,84,Female,14,Amazing offers! Bought 3 items last week.
+61,571,24,Male,6,"Not worth the price, would not recommend."
+70,670,10,Other,13,"Delivery took too long, not happy."
+44,999,22,Female,28,"Too expensive for the value, not satisfied."
+52,270,78,Female,18,"Satisfied with the purchase, will buy again."
+31,118,20,Other,23,Slow customer service and late shipping.
+35,421,19,Male,18,Poor quality and bad experience overall.
+51,417,50,Female,12,"Average quality, but delivery was quick."
+69,483,15,Female,18,Poor quality and bad experience overall.
+56,649,6,Male,26,Poor quality and bad experience overall.
+57,354,95,Male,25,"High quality for the price, very impressed."
+61,937,96,Female,26,Fantastic deals and super quick delivery!
+67,572,86,Female,29,Great customer service and fast shipping.
+30,319,69,Male,6,"Okay experience, nothing special."
+26,689,21,Female,8,"Product arrived damaged, very disappointed."
+27,476,67,Male,27,"Okay experience, nothing special."
+43,500,60,Male,30,"Okay experience, nothing special."
+37,691,24,Other,7,Poor quality and bad experience overall.
+58,954,86,Other,2,"High quality for the price, very impressed."
+40,890,64,Male,16,"Service was fine, but packaging could be better."
+42,578,16,Other,22,"Too expensive for the value, not satisfied."
+61,306,5,Female,16,Slow customer service and late shipping.
+34,171,45,Male,13,Expected more based on the description.
+65,208,82,Female,8,"Satisfied with the purchase, will buy again."
+61,620,42,Male,26,"It's okay, not great but not bad either."
+18,125,36,Other,1,"Product arrived damaged, very disappointed."
+48,767,18,Male,21,"Not worth the price, would not recommend."
+54,136,35,Male,28,"Product arrived damaged, very disappointed."
+48,420,88,Female,15,Great customer service and fast shipping.
+20,936,26,Other,24,"Product arrived damaged, very disappointed."
+39,463,45,Male,8,"Average quality, but delivery was quick."
+29,705,54,Female,30,Expected more based on the description.
+56,666,8,Other,18,"Not worth the price, would not recommend."
+21,233,51,Other,8,"Service was fine, but packaging could be better."
+27,571,16,Female,1,"Too expensive for the value, not satisfied."
+32,109,73,Male,30,Great customer service and fast shipping.
+22,583,48,Female,30,"Average quality, but delivery was quick."
+58,233,10,Other,6,Poor quality and bad experience overall.
+50,291,51,Female,28,"Service was fine, but packaging could be better."
+24,561,1,Male,21,"Delivery took too long, not happy."
+32,879,48,Female,22,"Average quality, but delivery was quick."
+37,248,14,Female,29,"Delivery took too long, not happy."
+35,491,64,Other,24,"It's okay, not great but not bad either."
+54,201,76,Female,4,"High quality for the price, very impressed."
+27,587,3,Female,12,Poor quality and bad experience overall.
+35,114,35,Other,15,Slow customer service and late shipping.
+25,564,8,Male,19,Slow customer service and late shipping.
+43,804,80,Other,27,"Satisfied with the purchase, will buy again."
+64,881,13,Male,15,"Not worth the price, would not recommend."
+69,773,82,Other,1,"Love the product, great quality and fast delivery!"
+28,541,51,Male,23,"Okay experience, nothing special."
+20,701,35,Other,16,"Delivery took too long, not happy."
+64,941,64,Other,18,"It's okay, not great but not bad either."
+42,602,69,Male,21,"Okay experience, nothing special."
+54,495,55,Male,15,"Service was fine, but packaging could be better."
+31,599,57,Other,24,"Average quality, but delivery was quick."
+60,901,70,Female,23,"Service was fine, but packaging could be better."
+31,192,93,Male,19,Great customer service and fast shipping.
+20,780,93,Other,5,"Satisfied with the purchase, will buy again."
+33,939,43,Other,13,Decent product for the price.
+58,132,45,Male,26,"It's okay, not great but not bad either."
+50,708,44,Other,17,"Service was fine, but packaging could be better."
+47,207,1,Male,2,"Delivery took too long, not happy."
+35,406,19,Female,18,"Delivery took too long, not happy."
+31,257,30,Male,23,Slow customer service and late shipping.
+51,935,12,Male,1,"Not worth the price, would not recommend."
+32,250,88,Female,7,Amazing offers! Bought 3 items last week.
+51,291,47,Male,10,"Average quality, but delivery was quick."
+22,752,25,Other,25,Poor quality and bad experience overall.
+18,434,11,Female,28,"Too expensive for the value, not satisfied."
+63,992,34,Female,11,"Product arrived damaged, very disappointed."
+56,148,30,Other,11,"Too expensive for the value, not satisfied."
+56,953,50,Female,15,"Okay experience, nothing special."
+66,367,6,Other,26,"Delivery took too long, not happy."
+47,719,11,Male,7,"Not worth the price, would not recommend."
+37,516,90,Male,16,"Love the product, great quality and fast delivery!"
+21,804,19,Female,7,"Not worth the price, would not recommend."
+66,300,80,Female,23,"Satisfied with the purchase, will buy again."
+58,370,67,Male,17,"It's okay, not great but not bad either."
+47,801,24,Female,10,"Delivery took too long, not happy."
+57,980,57,Other,6,"Service was fine, but packaging could be better."
+45,117,21,Female,22,"Too expensive for the value, not satisfied."
+42,699,20,Female,9,Slow customer service and late shipping.
+61,762,48,Other,23,"It's okay, not great but not bad either."
+59,333,60,Female,18,"Average quality, but delivery was quick."
+48,873,33,Other,7,"Not worth the price, would not recommend."
+49,850,30,Other,5,"Too expensive for the value, not satisfied."
+70,924,79,Female,20,Amazing offers! Bought 3 items last week.
+45,136,17,Male,4,"Too expensive for the value, not satisfied."
+45,798,1,Female,5,"Product arrived damaged, very disappointed."
+32,758,5,Female,20,"Too expensive for the value, not satisfied."
+64,247,70,Female,26,Decent product for the price.
+61,711,13,Male,16,"Not worth the price, would not recommend."
+50,269,94,Other,25,"High quality for the price, very impressed."
+53,861,76,Female,6,"High quality for the price, very impressed."
+23,985,29,Male,5,Slow customer service and late shipping.
+62,508,75,Female,17,"Love the product, great quality and fast delivery!"
+62,370,6,Other,12,"Not worth the price, would not recommend."
+57,515,12,Other,15,"Product arrived damaged, very disappointed."
+43,963,25,Male,9,"Too expensive for the value, not satisfied."
+33,427,53,Other,7,Decent product for the price.
+69,126,93,Male,14,Fantastic deals and super quick delivery!
+21,582,26,Female,13,"Not worth the price, would not recommend."
+36,997,25,Female,4,"Too expensive for the value, not satisfied."
+22,996,10,Other,27,"Not worth the price, would not recommend."
+32,883,80,Male,24,Fantastic deals and super quick delivery!
+20,773,75,Female,28,"Love the product, great quality and fast delivery!"
+41,915,24,Other,21,"Delivery took too long, not happy."
+61,376,96,Other,3,"High quality for the price, very impressed."
+65,370,16,Other,25,"Product arrived damaged, very disappointed."
+45,662,73,Male,18,"Satisfied with the purchase, will buy again."
+57,799,24,Other,13,"Not worth the price, would not recommend."
+33,758,29,Male,6,"Not worth the price, would not recommend."
+22,648,15,Female,18,"Delivery took too long, not happy."
+68,700,86,Other,8,Great customer service and fast shipping.
+50,115,2,Other,14,"Not worth the price, would not recommend."
+57,168,50,Female,6,"It's okay, not great but not bad either."
+53,825,78,Female,28,Amazing offers! Bought 3 items last week.
+22,626,33,Female,28,"Not worth the price, would not recommend."
+49,340,50,Female,6,"Okay experience, nothing special."
+51,791,57,Male,3,"Service was fine, but packaging could be better."
+65,594,9,Female,7,"Delivery took too long, not happy."
+34,525,20,Female,19,Slow customer service and late shipping.
+68,754,44,Female,4,"Service was fine, but packaging could be better."
+27,326,13,Male,10,"Too expensive for the value, not satisfied."
+22,208,50,Other,4,Expected more based on the description.
+25,223,75,Female,27,"Love the product, great quality and fast delivery!"
+18,699,1,Male,3,"Delivery took too long, not happy."
+67,743,55,Female,24,"It's okay, not great but not bad either."
+30,318,96,Female,15,"Satisfied with the purchase, will buy again."
+54,217,41,Female,8,"Okay experience, nothing special."
+63,232,54,Other,24,"Okay experience, nothing special."
+24,693,26,Female,15,Slow customer service and late shipping.
+61,676,79,Other,14,Amazing offers! Bought 3 items last week.
+40,847,36,Female,26,"Delivery took too long, not happy."
+63,835,49,Male,9,"It's okay, not great but not bad either."
+63,591,88,Female,14,"Satisfied with the purchase, will buy again."
+29,910,83,Other,14,"Satisfied with the purchase, will buy again."
+55,216,13,Female,14,Poor quality and bad experience overall.
+30,458,90,Other,2,"Love the product, great quality and fast delivery!"
+33,767,82,Female,2,"High quality for the price, very impressed."
+69,339,36,Other,8,Slow customer service and late shipping.
+41,200,1,Other,3,"Too expensive for the value, not satisfied."
+58,649,95,Male,11,"Love the product, great quality and fast delivery!"
+62,242,19,Female,18,Poor quality and bad experience overall.
+25,611,42,Other,3,"It's okay, not great but not bad either."
+32,676,42,Female,21,Expected more based on the description.
+64,503,26,Female,29,"Delivery took too long, not happy."
+43,841,53,Female,12,"Average quality, but delivery was quick."
+52,538,46,Other,21,"It's okay, not great but not bad either."
+34,622,46,Other,30,"Okay experience, nothing special."
+44,198,59,Other,12,"Service was fine, but packaging could be better."
+29,435,53,Other,7,"Service was fine, but packaging could be better."
+44,214,96,Other,19,Amazing offers! Bought 3 items last week.
+67,560,72,Female,23,Great customer service and fast shipping.
+58,963,82,Male,13,Fantastic deals and super quick delivery!
+19,599,82,Female,23,Amazing offers! Bought 3 items last week.
+40,889,61,Male,1,"Average quality, but delivery was quick."
+30,116,50,Other,25,Expected more based on the description.
+48,685,52,Other,7,"Average quality, but delivery was quick."
+50,161,36,Male,17,"Product arrived damaged, very disappointed."
+46,303,58,Male,14,"Okay experience, nothing special."
+69,242,13,Male,23,"Too expensive for the value, not satisfied."
+41,901,40,Female,9,"Service was fine, but packaging could be better."
+67,139,8,Other,6,"Product arrived damaged, very disappointed."
+30,666,12,Other,4,Poor quality and bad experience overall.
+46,870,66,Male,11,"Okay experience, nothing special."
+54,661,99,Other,10,Great customer service and fast shipping.
+60,139,12,Other,25,"Too expensive for the value, not satisfied."
+57,337,98,Female,7,"High quality for the price, very impressed."
+20,557,3,Female,2,Poor quality and bad experience overall.
+58,334,50,Male,30,"It's okay, not great but not bad either."
+32,571,50,Male,11,"Service was fine, but packaging could be better."
+44,448,89,Female,12,Amazing offers! Bought 3 items last week.
+21,754,48,Other,23,"Average quality, but delivery was quick."
+18,615,41,Male,28,Expected more based on the description.
+58,104,28,Male,2,"Too expensive for the value, not satisfied."
+69,166,81,Female,29,Amazing offers! Bought 3 items last week.
+33,187,12,Other,28,"Product arrived damaged, very disappointed."
+53,504,28,Male,14,"Too expensive for the value, not satisfied."
+58,252,77,Male,6,"Satisfied with the purchase, will buy again."
+39,199,73,Female,22,Fantastic deals and super quick delivery!
+31,276,46,Male,12,Expected more based on the description.
+40,721,78,Female,2,Amazing offers! Bought 3 items last week.
+41,707,41,Female,7,"Average quality, but delivery was quick."
+53,857,17,Male,15,"Product arrived damaged, very disappointed."
+30,654,87,Female,7,"Satisfied with the purchase, will buy again."
+22,880,78,Male,6,Great customer service and fast shipping.
+48,345,18,Male,19,"Not worth the price, would not recommend."
+65,132,80,Other,12,"Satisfied with the purchase, will buy again."
+23,292,21,Male,19,Poor quality and bad experience overall.
+52,635,8,Male,22,Poor quality and bad experience overall.
+54,132,97,Male,3,Fantastic deals and super quick delivery!
+39,850,23,Female,22,Poor quality and bad experience overall.
+47,614,4,Male,8,Poor quality and bad experience overall.
+21,408,76,Other,20,"High quality for the price, very impressed."
+19,158,36,Female,21,Poor quality and bad experience overall.
+65,615,80,Male,22,"High quality for the price, very impressed."
+18,764,22,Other,2,Slow customer service and late shipping.
+69,601,45,Male,16,"It's okay, not great but not bad either."
+42,212,48,Female,22,Decent product for the price.
+38,666,84,Other,2,"High quality for the price, very impressed."
+32,581,24,Other,14,Slow customer service and late shipping.
+22,790,71,Other,22,Great customer service and fast shipping.
+63,316,4,Other,27,"Too expensive for the value, not satisfied."
+29,383,69,Other,6,"Okay experience, nothing special."
+44,480,28,Female,24,"Product arrived damaged, very disappointed."
+61,685,47,Other,29,Expected more based on the description.
+53,278,16,Male,21,"Delivery took too long, not happy."
+55,547,3,Other,1,Poor quality and bad experience overall.
+39,421,18,Other,12,"Delivery took too long, not happy."
+51,512,62,Other,24,"Okay experience, nothing special."
+37,148,75,Female,2,Fantastic deals and super quick delivery!
+69,456,39,Other,11,"Too expensive for the value, not satisfied."
+28,703,100,Male,23,"Satisfied with the purchase, will buy again."
+66,924,52,Female,28,"Average quality, but delivery was quick."
+50,395,56,Other,7,"Average quality, but delivery was quick."
+19,377,62,Male,21,"Average quality, but delivery was quick."
+56,506,79,Male,17,Amazing offers! Bought 3 items last week.
+48,942,83,Male,14,"Love the product, great quality and fast delivery!"
+42,322,20,Male,23,"Product arrived damaged, very disappointed."
+43,414,14,Male,6,"Delivery took too long, not happy."
+18,785,93,Female,1,Amazing offers! Bought 3 items last week.
+35,534,24,Male,4,Poor quality and bad experience overall.
+40,840,16,Female,7,"Too expensive for the value, not satisfied."
+28,163,40,Other,9,Expected more based on the description.
+47,370,12,Male,14,"Delivery took too long, not happy."
+52,877,19,Male,16,"Product arrived damaged, very disappointed."
+32,695,13,Female,20,Poor quality and bad experience overall.
+69,960,62,Other,26,Expected more based on the description.
+63,632,74,Other,23,Fantastic deals and super quick delivery!
+51,413,38,Male,9,"Delivery took too long, not happy."
+28,724,87,Male,26,Great customer service and fast shipping.
+67,345,95,Other,29,Amazing offers! Bought 3 items last week.
+28,999,21,Male,1,Slow customer service and late shipping.
